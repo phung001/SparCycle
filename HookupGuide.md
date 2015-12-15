@@ -1,3 +1,5 @@
+This specific guide utilizes two arduino unos to work, other microcontrollers might have to be adjusted.
+
 ####Front Arduino:
 
   LCD:
