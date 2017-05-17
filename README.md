@@ -19,9 +19,9 @@ Special components and technologies used in this project include:
 * LCD Display
 * A bicycle, lots of tape, and a box.
 
-#####Demo Video: https://youtu.be/-bI9D3a9aBY 
+##### Demo Video: https://youtu.be/-bI9D3a9aBY 
 
-#####Links:
+##### Links:
 * https://github.com/adafruit/RGB-matrix-Panel - Library used to control LED Panel
 * https://github.com/arkhipenko/TaskScheduler - Library used to create a task scheduler in the Arduino IDE.
 * http://forum.arduino.cc/index.php?topic=138663.0 - Link used to get the transceiver working
