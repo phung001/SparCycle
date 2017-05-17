@@ -1,6 +1,6 @@
 This specific guide utilizes two arduino unos to work, other microcontrollers might have to be adjusted.
 
-####Front Arduino:
+#### Front Arduino:
 
   LCD:
   
@@ -27,7 +27,7 @@ This specific guide utilizes two arduino unos to work, other microcontrollers mi
 
   Hall effect sensor: PIN 2
 
-####Back Arduino:
+#### Back Arduino:
 
   LED Matrix:
     Follow the hookup guide here: https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide
